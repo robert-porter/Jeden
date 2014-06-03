@@ -1,0 +1,4 @@
+FrameTime=0.1
+Frame=assets/jump1.png
+Frame=assets/jump2.png
+Frame=assets/jump3.png

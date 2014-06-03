@@ -1,0 +1,15 @@
+SpriteWidth=1.65625
+SpriteHeight=1.796875
+CollisionWidth=1
+CollisionHeight=1.796875
+WalkImpulse=400
+JumpImpulse=950
+InAirMovementImpulse=50
+InAirLinearDamping=2
+WalkingLinearDamping=10
+Friction=10
+GravityScale=1
+Mass=100
+Restitution=0
+ZIndex=175
+MaxHealth=100
